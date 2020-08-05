@@ -18,7 +18,7 @@ Lila Cardell is a PhD student at the University of Illinois at Urbana-Champaign.
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
+           Lila Cardell<br/>
             Email: lila.cardell@gmail.com<br/>
         </div>
 
