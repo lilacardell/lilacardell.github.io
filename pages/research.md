@@ -7,14 +7,14 @@ description: Lila Cardell's research
 
 
 #### <u>Sell Low, Buy Low: A New Explanation for a Persistent Puzzle </u>
-*In this paper.*
+<!--*In this paper.*-->
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Negative Returns_2020.pdf)
 
 
 
 #### <u>Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia</u>
-*In this paper.*
+<!--*In this paper.*-->
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)
 
