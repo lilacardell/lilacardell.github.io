@@ -21,7 +21,7 @@ Lila Cardell is a PhD student at the University of Illinois at Urbana-Champaign.
         <div class="span5">
            Lila Cardell<br/>
             Email: <a href = "mailto: lilac2@illinois.edu">lilac2@illinois.edu</a><br/>
-            Twitter: <a href="https://twitter.com/lilacardell">@LilaCardell</a><br/><br/>
+            Twitter: <a href="https://twitter.com/lilacardell">@LilaCardell</a><br/>
             GitHub: <a href="https://github.com/lilacardell">github.com/lilacardell</a><br/>
         </div>
 
