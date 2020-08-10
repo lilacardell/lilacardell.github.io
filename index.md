@@ -15,7 +15,7 @@ Lila Cardell is a PhD student at the University of Illinois at Urbana-Champaign.
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -34,7 +34,7 @@ Lila Cardell is a PhD student at the University of Illinois at Urbana-Champaign.
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>
+         <!-- <li><a href="{{ BASE_PATH }}/assets/CV.pdf">CV</a></li>-->
           <li><a href="https://github.com/lilacardell">GitHub</a></li>
           <li><a href="https://twitter.com/lilacardell">Twitter (@LilaCardell)</a></li>
       </ul>
