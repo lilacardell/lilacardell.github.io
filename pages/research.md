@@ -6,7 +6,7 @@ description: Lila Cardell's research
 
 ### <u>Working Papers </u>
 
-#### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
+##### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
 <!--*In this paper.*-->
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Negative Returns_2020.pdf)
 <br>
