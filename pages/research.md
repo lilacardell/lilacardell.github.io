@@ -25,16 +25,16 @@ description: Lila Cardell's research
 
 ### <u>Posters and Presentations</u>
 
-Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" Selected paper presented at the 2020 Agricultural & Applied Economics Association Meeting, virtual, August 10-11.
+Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" <i>Selected paper presented at the 2020 Agricultural & Applied Economics Association Meeting, virtual, August 10-11.<i>
 <br>
 
-Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" Selected paper presented at the 2020 Midwest International Economic Development Conference (MIEDC), virtual, April 17.
+Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" <i>Selected paper presented at the 2020 Midwest International Economic Development Conference (MIEDC), virtual, April 17.<i>
 <br>
 
-Cardell, L. "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia" Selected paper presented at the 2019 Agricultural & Applied Economics Association Meeting, Atlanta, Georgia, July 21-23.
+Cardell, L. "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia" <i>Selected paper presented at the 2019 Agricultural & Applied Economics Association Meeting, Atlanta, Georgia, July 21-23.<i>
 <br>
 
-Cardell, L. "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia" Selected poster presented at the 2019 Agriculture for Nutrition and Health (ANH) Academy Week annual meeting, Hyderabad, India, June 24-28.
+Cardell, L. "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia" <i>Selected poster presented at the 2019 Agriculture for Nutrition and Health (ANH) Academy Week annual meeting, Hyderabad, India, June 24-28.<i>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
