@@ -4,7 +4,7 @@ title: Research
 description: Lila Cardell's research
 ---
 
-## <u>Working Papers </u>
+### <u>Working Papers </u>
 
 #### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
 <!--*In this paper.*-->
@@ -23,7 +23,7 @@ description: Lila Cardell's research
 <br>
 
 
-## <u>Posters and Presentations</u>
+### <u>Posters and Presentations</u>
 
 Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" Selected paper presented at the 2020 Agricultural & Applied Economics Association Meeting, virtual, August 10-11.
 <br>
