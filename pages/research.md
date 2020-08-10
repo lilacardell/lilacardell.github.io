@@ -23,6 +23,7 @@ description: Lila Cardell's research
 
 
 <h1><u>Posters and Presentations</u></h1> 
+
 Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" Selected paper presented at the 2020 Agricultural & Applied Economics Association Meeting, virtual, August 10-11.
 
 Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" Selected paper presented at the 2020 Midwest International Economic Development Conference (MIEDC), virtual, April 17.
