@@ -8,7 +8,7 @@ description: Lila Cardell's research
 
 ##### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
 <!--*In this paper.*-->
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Negative Returns_2020.pdf)
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/NegativeReturns_101220_manuscript.pdf)
 <br>
 
 ##### Cardell, L. and Lentz, E. (2020) "Nutritional Discordance: How does the choce of method influence differencs in intrahousehold nutritional status? A close examination of nutrition measures and methods from Bangladesh"
