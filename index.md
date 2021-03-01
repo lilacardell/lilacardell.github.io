@@ -1,11 +1,11 @@
 ---
 layout: frontpage
 title: Lila Cardell
-description: Lila Cardell is a PhD student at the University of Illinois at Urbana-Champaign
+description: I am a PhD student at the University of Illinois at Urbana-Champaign
 keywords: economics, agriculture, nutrition, development
 ---
 
-Lila Cardell is a PhD student at the University of Illinois at Urbana-Champaign. Her research interests include agricultural and nutrition-based puzzles.
+I am a PhD student at the University of Illinois at Urbana-Champaign. Her research interests include agricultural and nutrition-based puzzles.
 
 <!--
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
