@@ -19,6 +19,10 @@ description: Lila Cardell's research
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)*-->
 <br>
 
+ <a href="https://github.com/lilacardell/BIHS_Project">github repository</a> 
+<br>
+
+
 ##### Cardell, L. (2019) "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia"
 <!--*In this paper.*-->
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)
