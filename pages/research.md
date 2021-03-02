@@ -6,7 +6,7 @@ description: Lila Cardell's research
 
 ### <u>Working Papers </u>
 
-##### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
+#### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
 <!--*In this paper.*-->
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/NegativeReturns_101220_manuscript.pdf)
 <br>
@@ -14,7 +14,8 @@ description: Lila Cardell's research
  <a href="https://github.com/lilacardell/CardellMichelson2020">github repository</a> 
 <br>
 
-##### Cardell, L. and Lentz, E. (2020) "Nutritional Discordance: How does the choce of method influence differencs in intrahousehold nutritional status? A close examination of nutrition measures and methods from Bangladesh"
+
+#### Cardell, L. and Lentz, E. (2020) "Nutritional Discordance: How does the choce of method influence differencs in intrahousehold nutritional status? A close examination of nutrition measures and methods from Bangladesh"
 <!--*In this paper.
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)*-->
 <br>
@@ -23,7 +24,8 @@ description: Lila Cardell's research
 <br>
 
 
-##### Cardell, L. (2019) "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia"
+
+#### Cardell, L. (2019) "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia"
 <!--*In this paper.*-->
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)
 
