@@ -10,7 +10,6 @@ description: Lila Cardell's research
 <!--*In this paper.*-->
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/NegativeReturns_101220_manuscript.pdf)
 <br>
-
  <a href="https://github.com/lilacardell/CardellMichelson2020">github repository</a> 
 <br>
 
@@ -19,7 +18,6 @@ description: Lila Cardell's research
 <!--*In this paper.
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)*-->
 <br>
-
  <a href="https://github.com/lilacardell/BIHS_Project">github repository</a> 
 <br>
 
