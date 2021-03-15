@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Lila Cardell
-description: I am a PhD student at the University of Illinois at Urbana-Champaign
+description: I am a PhD candidate at the University of Illinois at Urbana-Champaign
 keywords: economics, agriculture, nutrition, development
 ---
 
