@@ -8,7 +8,7 @@ description: Lila Cardell's research
 
 #### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
 <!--*In this paper.*-->
-[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/NegativeReturns_101220_manuscript.pdf)
+[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/RiskyReturns_032921_manuscript.pdf)
 <br>
  <a href="https://github.com/lilacardell/CardellMichelson2020">github repository</a> 
 <br>
