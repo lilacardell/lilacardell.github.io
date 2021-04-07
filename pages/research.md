@@ -8,7 +8,7 @@ description: Lila Cardell's research
 
 #### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
 <!--*In this paper.*-->
-[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/RiskyReturns_032921_manuscript.pdf)
+[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Cardell_RiskyReturns.pdf)
 <br>
  <a href="https://github.com/lilacardell/CardellMichelson2020">github repository</a> 
 <br>
@@ -25,7 +25,7 @@ description: Lila Cardell's research
 
 #### Cardell, L. (2019) "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia"
 <!--*In this paper.*-->
-[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)
+[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/SpiltMilk_030821.pdf)
 
 <br>
 
