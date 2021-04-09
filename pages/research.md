@@ -37,6 +37,7 @@ description: Lila Cardell's research
 
 Cardell, L. and Michelson, H. “Negative returns are a general explanation for failure to exploit temporal arbitrage” </i>Selected paper presented at the 2020 North East Universities Development Consortium , virtual, November 6-7.</i>
 <br>
+
 Cardell, L. and Michelson, H. "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" <i>Selected paper presented at the 2020 Agricultural & Applied Economics Association Meeting, virtual, August 10-11.</i>
 <br>
 
