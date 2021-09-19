@@ -6,7 +6,7 @@ description: Lila Cardell's research
 
 ### <u>Working Papers </u>
 
-#### Cardell, L. and Michelson, H. (2020) "Sell Low, Buy Low: A New Explanation for a Persistent Puzzle" 
+#### Cardell, L. and Michelson, H. (2021) "Price risk and staple grain storage decisions: new insights into a long-standing puzzle" 
 <!--*In this paper.*-->
 <br>
 [most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Cardell_RiskyReturns.pdf)
@@ -34,6 +34,9 @@ description: Lila Cardell's research
 
 
 ### <u>Posters and Presentations</u>
+
+Cardell, L. and Michelson, H. “Price risk and staple grain storage decisions: new insights into a long-standing puzzle” <i>Selected paper presented at the 2021 All Africa Post-harvest Conference and Exhibition , virtual, September 13-16.</i>
+<br>
 
 Cardell, L. and Michelson, H. “Negative returns are a general explanation for failure to exploit temporal arbitrage” <i>Selected paper presented at the 2020 North East Universities Development Consortium , virtual, November 6-7.</i>
 <br>
