@@ -16,6 +16,7 @@ description: Lila Cardell's research
 ### <u>Working Papers </u>
 
 #### Cardell, L. and Lentz, E. (2020) "Nutritional Discordance: How does the choce of method influence differencs in intrahousehold nutritional status? A close examination of nutrition measures and methods from Bangladesh"
+<br>
 [most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)*-->
  <a href="https://github.com/lilacardell/BIHS_Project">github repository</a> 
 <br>
@@ -23,6 +24,7 @@ description: Lila Cardell's research
 
 
 #### Cardell, L. (2019) "Spilt Milk: Measuring the Indirect Effects of Livestock Ownership in Rural Zambia"
+<br>
 [most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/SpiltMilk_030821.pdf)
 <br>
 
