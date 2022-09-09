@@ -1,11 +1,11 @@
 ---
 layout: frontpage
 title: Lila Cardell
-description: I am a PhD candidate at the University of Illinois at Urbana-Champaign
+description: I am a Research Economist for the USDA Economic Research Service in the International Trade and Development branch.
 keywords: economics, agriculture, nutrition, development
 ---
 
-I am a Research Economist at the USDA Economic Research Service in the International Trade and Development branch. My research interests include agricultural and nutrition-based puzzles.
+I am a Research Economist for the USDA Economic Research Service in the International Trade and Development branch. My research interests include agricultural and nutrition-based puzzles.
 
 <!--
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
