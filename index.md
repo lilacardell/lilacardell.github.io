@@ -5,7 +5,7 @@ description: I am a PhD candidate at the University of Illinois at Urbana-Champa
 keywords: economics, agriculture, nutrition, development
 ---
 
-I am a PhD Candidate at the University of Illinois at Urbana-Champaign. My research interests include agricultural and nutrition-based puzzles.
+I am a Research Economist at the USDA Economic Research Service in the International Trade and Development branch. My research interests include agricultural and nutrition-based puzzles.
 
 <!--
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
@@ -20,7 +20,7 @@ I am a PhD Candidate at the University of Illinois at Urbana-Champaign. My resea
     <div class="row-fluid">
         <div class="span5">
            Lila Cardell<br/>
-            Email: <a href = "mailto: lilac2@illinois.edu">lilac2 at illinois dot edu</a><br/>
+            Email: <a href = "mailto: lilac2@illinois.edu">lila.cardell at usda dot gov</a><br/>
             Twitter: <a href="https://twitter.com/lilacardell">@LilaCardell</a><br/>
             GitHub: <a href="https://github.com/lilacardell">github.com/lilacardell</a><br/>
         </div>
