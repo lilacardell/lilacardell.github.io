@@ -4,16 +4,17 @@ title: Research
 description: Lila Cardell's research
 ---
 
-### <u>Working Papers </u>
+### <u>Peer-reviewed Publications </u>
 
-#### Cardell, L. and Michelson, H. (2021) "Price risk and staple grain storage decisions: new insights into a long-standing puzzle" 
+
+
+#### Cardell, L. and Michelson, H. (2022) "Price risk and small farmer maize storage in Sub-Saharan Africa: New insights into a long-standing puzzle" American Journal of Agricultural Economics 1– 23. https://doi.org/10.1111/ajae.12343 
 <!--*In this paper.*-->
 <br>
-[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/Cardell_RiskyReturns.pdf)
-<br>
- <a href="https://github.com/lilacardell/CardellMichelson2020">github repository</a> 
+ <a href="https://github.com/lilacardell/CardellMichelson2022">github repository</a> 
 <br>
 
+### <u>Working Papers </u>
 
 #### Cardell, L. and Lentz, E. (2020) "Nutritional Discordance: How does the choce of method influence differencs in intrahousehold nutritional status? A close examination of nutrition measures and methods from Bangladesh"
 <!--*In this paper.
