@@ -17,8 +17,6 @@ description: Lila Cardell's research
 
 #### Cardell, L. and Lentz, E. (2020) "Nutritional Discordance: How does the choce of method influence differencs in intrahousehold nutritional status? A close examination of nutrition measures and methods from Bangladesh"
 <br>
-[most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/CARDELL_Spilt Milk (2019).pdf)
-<br>
 <a href="https://github.com/lilacardell/BIHS_Project">github repository</a> 
 <br>
 
